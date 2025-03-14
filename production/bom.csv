@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_UNO_R3,1,Arduino_UNO_R3,
+"C1, C2",C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal,2,0.1uF,
+"H1, H2, H3, H4",MountingHole_3mm,4,MountingHole,
+"H5, H6, H7, H8",Display_Mounting_Hole,4,Display Mounting,
+J1,PinHeader_1x20_P2.54mm_Vertical,1,NHD-2.23-12832UCB3,
+J2,IDC-Header_2x03_P2.54mm_Vertical,1,Programming Header,
+R1,R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal,1,1k,
+R2,R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal,1,10k,
+SW1,TerminalBlock_bornier-2_P5.08mm,1,Button,
+U1,TSSOP24_SOT355-1_NXP,1,NVT2010PW_118,
